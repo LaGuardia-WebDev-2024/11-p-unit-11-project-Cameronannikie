@@ -2,7 +2,7 @@
 
 /* ======================== CSS Rule #1 */
 html {
-  background-color: white;
+  background-color: rgb(245, 243, 243);
   padding-left: 20px;
 }
 
@@ -10,3 +10,17 @@ html {
 h1 {
   font-family: "Poetsen One", sans-serif;
 }
+
+.Atlanta{
+  border: 5px solid rgb(61, 90, 15);
+}
+
+#food{
+  border: 5px solid rgb(18, 7, 63);
+}
+
+#baby{
+  border: 5px solid rgb(226, 136, 33);
+}
+
+.memory2

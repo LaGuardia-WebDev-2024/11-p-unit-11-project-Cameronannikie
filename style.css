@@ -4,11 +4,13 @@
 html {
   background-color: rgb(245, 243, 243);
   padding-left: 20px;
+  background-image:url(https://cdn.hswstatic.com/gif/gettyimages-1406174121.jpg) ;
 }
 
 /* ======================== CSS Rule #2 */
 h1 {
   font-family: "Poetsen One", sans-serif;
+  color: rgb(40, 40, 197);
 }
 
 .Atlanta{
